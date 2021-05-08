@@ -4,4 +4,4 @@ while (counter < 10){
     result = result * 2;
     counter++
 }
-document.write(result);
+console.log('salom');

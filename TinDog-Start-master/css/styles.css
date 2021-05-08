@@ -2,16 +2,19 @@ body {
 	padding: 0;
 	margin: 0;
 }
+
 nav a {
 	font-size: 2rem;
 	color: seashell;
 }
 h1 {
+	font-size: 96px;
 	font-weight: bolder;
 	color: white;
 	padding: 40px 0;
 	font-family: "ubuntu-black" sans-serif;
 	line-height: 3rem;
+	line-height: 7rem;
 }
 
 button i {
@@ -34,7 +37,7 @@ h2 {
 }
 .container-fluid {
 	padding: 5% 7%;
-	background-color: red;
+	background-color: #ff4c68;
 }
 .row img {
 	transform: rotate(25deg);
@@ -89,7 +92,7 @@ p {
 	padding-top: 20px;
 }
 #title {
-	background-color: red;
+	background-color: #ff4c68;
 }
 #features {
 	margin-top: 30px;
